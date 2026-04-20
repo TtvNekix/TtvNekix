@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=200&section=header&text=Juan%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=fullstack%20%C2%B7%20frontend%20enjoyer%20%C2%B7%20sin%20caf%C3%A9%20no%20hay%20c%C3%B3digo&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=200&section=header&text=Juan%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=fullstack%20%C2%B7%20backend%20enjoyer%20%C2%B7%20frontend%20hater&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- TAGLINE -->
 
 ```bash
 ~ juan $ whoami
-> fullstack dev · UIs que enamoran · scripts de FiveM que rompen servidores
+> fullstack dev · backend sólido · el CSS lo escribo llorando
 ```
 
 <!-- SOCIAL BADGES -->
@@ -28,19 +28,21 @@
 
 <img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Dev fullstack de Cartagena (España), con alma de frontend. Me dedico a construir **interfaces que enamoran**, **scripts de FiveM que aguantan servidores enteros** y **experiencias web que no dan cringe**.
+Dev fullstack de Cartagena (España), con alma de backend. Me dedico a construir **APIs que no se caen**, **scripts de FiveM que aguantan servidores enteros** y **lógica limpia** — aunque luego toque pelear con el CSS.
 
 - 🧠 Actualmente construyendo [**CoffeeProjects**](https://landingpage-coffeeprojects.vercel.app/) con [@Dieguito005](https://github.com/Dieguito005) — estudio de desarrollo a medida.
-- 🛠️ Especializado en **Lua (FiveM)**, **JavaScript / TypeScript** y **React / Vue**.
-- 🎮 Veterano del ecosistema **FiveM**: mods, HUDs y sistemas optimizados.
+- 🛠️ Especializado en **Lua (FiveM)**, **Node.js** y **JavaScript / TypeScript**.
+- 🎮 Veterano del ecosistema **FiveM**: mods, sistemas optimizados y backend de servidor.
+- 🎨 El frontend y yo tenemos una relación tóxica. Lo hago, pero no me gusta.
 - ☕ Café solo. Sin azúcar. Sin excusas.
-- 💬 Pregúntame sobre FiveM, frontend o cómo hacer que una UI no parezca de 2010.
+- 💬 Pregúntame sobre FiveM, APIs, backend o por qué el CSS es el enemigo.
 
 ```js
 const juan = {
   stack: ["Lua", "JavaScript", "TypeScript", "React", "Vue", "Python"],
   currentProject: "CoffeeProjects · studio",
-  enjoys: ["pixel perfect UIs", "FiveM scripting", "clean code"],
+  enjoys: ["backend puzzles", "FiveM scripting", "clean APIs"],
+  hates: ["CSS", "z-index", "flexbox a las 3am"],
   coffee: "solo, sin azúcar",
   motto: "sin café, no hay código"
 };
@@ -157,7 +159,7 @@ Rutas dinámicas, UI limpia en NUI, integración con frameworks populares y opti
     <b>Juan</b>
   </a>
   <br/>
-  <sub>fullstack · frontend enjoyer</sub><br/>
+  <sub>fullstack · backend enjoyer · frontend hater</sub><br/>
   <sub>📍 Cartagena</sub>
 </td>
 <td align="center" width="50%">
@@ -166,7 +168,7 @@ Rutas dinámicas, UI limpia en NUI, integración con frameworks populares y opti
     <b>Diego</b>
   </a>
   <br/>
-  <sub>fullstack · backend enjoyer</sub><br/>
+  <sub>fullstack · frontend enjoyer</sub><br/>
   <sub>📍 Cuenca</sub>
 </td>
 </tr>
