@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=200&section=header&text=Juan%20P%C3%A9rez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=fullstack%20%C2%B7%20backend%20enjoyer%20%C2%B7%20frontend%20hater&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=200&section=header&text=Nekix&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=software%20developer%20%C2%B7%20backend%20%C2%B7%20espa%C3%B1a&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- TAGLINE -->
 
 ```bash
 ~ juan $ whoami
-> fullstack dev · backend sólido · el CSS lo escribo llorando
+> software developer · backend · españa
 ```
 
 <!-- SOCIAL BADGES -->
@@ -28,21 +28,22 @@
 
 <img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Dev fullstack de Cartagena (España), con alma de backend. Me dedico a construir **APIs que no se caen**, **scripts de FiveM que aguantan servidores enteros** y **lógica limpia** — aunque luego toque pelear con el CSS.
+Soy Juan, desarrollador de software. Trabajo con **C#**, **JavaScript** y **Lua** principalmente, encargado del desarrollo backend de aplicaciones y webs. También cuento con capacidades en infraestructura Linux y con un nivel en redes medio.
 
-- 🧠 Actualmente construyendo [**CoffeeProjects**](https://landingpage-coffeeprojects.vercel.app/) con [@Dieguito005](https://github.com/Dieguito005) — estudio de desarrollo a medida.
-- 🛠️ Especializado en **Lua (FiveM)**, **Node.js** y **JavaScript / TypeScript**.
+- 🧠 Co-fundador de [**CoffeeProjects**](https://landingpage-coffeeprojects.vercel.app/) con [@Dieguito005](https://github.com/Dieguito005) — estudio de desarrollo a medida.
+- 🛠️ Experiencia en **C# / .NET** aplicada en proyectos privados y freelance.
 - 🎮 Veterano del ecosistema **FiveM**: mods, sistemas optimizados y backend de servidor.
-- 🎨 El frontend y yo tenemos una relación tóxica. Lo hago, pero no me gusta.
+- 🖥️ Infraestructura **Linux**, **Proxmox**, **Nginx** y **Docker**.
 - ☕ Café solo. Sin azúcar. Sin excusas.
-- 💬 Pregúntame sobre FiveM, APIs, backend o por qué el CSS es el enemigo.
+- 💬 Pregúntame sobre FiveM, APIs, backend o C#.
+
+*Aprendiendo continuamente. Construyendo siempre.*
 
 ```js
 const juan = {
-  stack: ["Lua", "JavaScript", "TypeScript", "React", "Vue", "Python"],
+  stack: ["Lua", "JavaScript", "C#", "Python"],
   currentProject: "CoffeeProjects · studio",
   enjoys: ["backend puzzles", "FiveM scripting", "clean APIs"],
-  hates: ["CSS", "z-index", "flexbox a las 3am"],
   coffee: "solo, sin azúcar",
   motto: "sin café, no hay código"
 };
@@ -56,38 +57,40 @@ const juan = {
 
 **Lenguajes**
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend & Data**
+**Bases de datos**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**FiveM & Tools**
+**Infra & Tools**
 
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=cfx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=cfx&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -105,20 +108,69 @@ const juan = {
 
 Dos devs españoles que convertimos cafés en webs, tiendas, mods de FiveM, juegos de Roblox y apps móviles.
 
-`Astro` `Node.js` `Stripe` `WordPress`
+`Node.js` `Stripe` `WordPress`
 
 **[Visitar landing →](https://landingpage-coffeeprojects.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🚚 [nek_deliveryjob](https://github.com/TtvNekix/nek_deliveryjob)
+### 🏆 [OpenLeagueManager](https://github.com/OpenLeagueManager/OLManager) ★ 90
+
+Plataforma de gestión de ligas e-sports. Participación en el proyecto open-source con reportes de bugs y seguimiento de issues.
+
+`TypeScript` `Open Source` `Colaboración`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 [nek_deliveryjob](https://github.com/TtvNekix/nek_deliveryjob) ★ 18
 
 Sistema de **trabajo de reparto para FiveM** — 18★ en la comunidad.
 
 Rutas dinámicas, UI limpia en NUI, integración con frameworks populares y optimización real de servidor.
 
-`Lua` `JavaScript` `FiveM` `NUI`
+`Lua` `SQL` `FiveM`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 [nek_vehicleshop](https://github.com/TtvNekix/nek_vehicleshop) ★ 8
+
+Sistema de compraventa con arquitectura modular, base de datos relacional y lógica server-side. Creado para FiveM.
+
+`Lua` `SQL` `FiveM`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Webs
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎭 [El Impostor](https://impostor.nekix.lol)
+
+Juego multijugador de deducción social en tiempo real. Encuentra al impostor antes de que te encuentre a ti. Sin instalación, solo un código de sala y tus amigos.
+
+`React` `Vite` `WebSocket` `IA`
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ [coffeeprojects.es](https://coffeeprojects.es)
+
+Web del estudio de desarrollo freelance que co-fundé con [@Dieguito005](https://github.com/Dieguito005). Landing, servicios, equipo y presupuesto online — todo custom.
+
+`HTML` `CSS` `JavaScript` `SEO`
+
+**[Visitar →](https://coffeeprojects.es)**
 
 </td>
 </tr>
@@ -147,39 +199,6 @@ Rutas dinámicas, UI limpia en NUI, integración con frameworks populares y opti
 
 ---
 
-## 🤝 El equipo
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/TtvNekix">
-    <img src="https://avatars.githubusercontent.com/u/69590591?v=4" width="80" style="border-radius:50%"/><br/>
-    <b>Juan</b>
-  </a>
-  <br/>
-  <sub>fullstack · backend enjoyer · frontend hater</sub><br/>
-  <sub>📍 Cartagena</sub>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/Dieguito005">
-    <img src="https://avatars.githubusercontent.com/u/184672124?v=4" width="80" style="border-radius:50%"/><br/>
-    <b>Diego</b>
-  </a>
-  <br/>
-  <sub>fullstack · frontend enjoyer</sub><br/>
-  <sub>📍 Cuenca</sub>
-</td>
-</tr>
-</table>
-
-**Dos devs, una cafetera, cero drama.**
-
-</div>
-
----
-
 ## 📫 Conecta conmigo
 
 <div align="center">
@@ -196,8 +215,8 @@ Rutas dinámicas, UI limpia en NUI, integración con frameworks populares y opti
 <a href="https://github.com/TtvNekix">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.twitch.tv/ttvnekix">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+<a href="https://discord.com/users/ttvnekix">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 </div>
