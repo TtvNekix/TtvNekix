@@ -206,7 +206,7 @@ Web del estudio de desarrollo freelance que co-fundé con [@Dieguito005](https:/
 <a href="mailto:juanperezros05@gmail.com">
   <img src="https://img.shields.io/badge/Email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email personal"/>
 </a>
-<a href="mailto:contact@coffeeprojects.cloud">
+<a href="mailto:contact@coffeeprojects.es">
   <img src="https://img.shields.io/badge/Email_studio-6F4E37?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email studio"/>
 </a>
 <a href="https://github.com/TtvNekix">
