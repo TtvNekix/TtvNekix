@@ -12,7 +12,7 @@
 
 <!-- SOCIAL BADGES -->
 <p>
-  <a href="https://landingpage-coffeeprojects.vercel.app/">
+  <a href="https://coffeeprojects.es/">
     <img src="https://img.shields.io/badge/coffeeprojects-☕-6F4E37?style=for-the-badge&labelColor=1a1a1a" alt="CoffeeProjects"/>
   </a>
   <img src="https://img.shields.io/badge/Cartagena-España-c41e3a?style=for-the-badge&labelColor=1a1a1a" alt="Location"/>
@@ -30,7 +30,7 @@
 
 Soy Juan, desarrollador de software. Trabajo con **C#**, **JavaScript** y **Lua** principalmente, encargado del desarrollo backend de aplicaciones y webs. También cuento con capacidades en infraestructura Linux y con un nivel en redes medio.
 
-- 🧠 Co-fundador de [**CoffeeProjects**](https://landingpage-coffeeprojects.vercel.app/) con [@Dieguito005](https://github.com/Dieguito005) — estudio de desarrollo a medida.
+- 🧠 Co-fundador de [**CoffeeProjects**](https://coffeeprojects.es/) con [@Dieguito005](https://github.com/Dieguito005) — estudio de desarrollo a medida.
 - 🛠️ Experiencia en **C# / .NET** aplicada en proyectos privados y freelance.
 - 🎮 Veterano del ecosistema **FiveM**: mods, sistemas optimizados y backend de servidor.
 - 🖥️ Infraestructura **Linux**, **Proxmox**, **Nginx** y **Docker**.
@@ -99,7 +99,7 @@ const juan = {
 <tr>
 <td width="50%" valign="top">
 
-### ☕ [CoffeeProjects](https://landingpage-coffeeprojects.vercel.app/)
+### ☕ [CoffeeProjects](https://coffeeprojects.es/)
 
 **Estudio de desarrollo a medida** con [@Dieguito005](https://github.com/Dieguito005).
 
@@ -107,7 +107,7 @@ Dos devs españoles que convertimos cafés en webs, tiendas, mods de FiveM, jueg
 
 `Node.js` `Stripe` `WordPress`
 
-**[Visitar landing →](https://landingpage-coffeeprojects.vercel.app/)**
+**[Visitar landing →](https://coffeeprojects.es/)**
 
 </td>
 <td width="50%" valign="top">
@@ -200,7 +200,7 @@ Web del estudio de desarrollo freelance que co-fundé con [@Dieguito005](https:/
 
 <div align="center">
 
-<a href="https://landingpage-coffeeprojects.vercel.app/#contacto">
+<a href="https://coffeeprojects.es/#contacto">
   <img src="https://img.shields.io/badge/Pedir_presupuesto-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Contacto"/>
 </a>
 <a href="mailto:juanperezros05@gmail.com">
