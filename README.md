@@ -34,7 +34,6 @@ Soy Juan, desarrollador de software. Trabajo con **C#**, **JavaScript** y **Lua*
 - 🛠️ Experiencia en **C# / .NET** aplicada en proyectos privados y freelance.
 - 🎮 Veterano del ecosistema **FiveM**: mods, sistemas optimizados y backend de servidor.
 - 🖥️ Infraestructura **Linux**, **Proxmox**, **Nginx** y **Docker**.
-- ☕ Café solo. Sin azúcar. Sin excusas.
 - 💬 Pregúntame sobre FiveM, APIs, backend o C#.
 
 *Aprendiendo continuamente. Construyendo siempre.*
@@ -43,9 +42,7 @@ Soy Juan, desarrollador de software. Trabajo con **C#**, **JavaScript** y **Lua*
 const juan = {
   stack: ["Lua", "JavaScript", "C#", "Python"],
   currentProject: "CoffeeProjects · studio",
-  enjoys: ["backend puzzles", "FiveM scripting", "clean APIs"],
-  coffee: "solo, sin azúcar",
-  motto: "sin café, no hay código"
+  enjoys: ["backend puzzles", "FiveM scripting", "clean APIs"]
 };
 ```
 
@@ -224,14 +221,6 @@ Web del estudio de desarrollo freelance que co-fundé con [@Dieguito005](https:/
 ---
 
 <div align="center">
-
-```
-while (coffee) {
-  ship("great");
-}
-```
-
-<sub>✦ <i>sin café, no hay código</i> ✦</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=100&section=footer"/>
 
