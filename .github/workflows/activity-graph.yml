@@ -1,0 +1,38 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate activity graph (README theme)
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: TtvNekix
+          options: bg_color=0d1117&color=c9d1d9&line=6F4E37&point=c19a6b&area=true&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate activity graph (nekix.lol theme)
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: TtvNekix
+          options: theme=react-dark&hide_border=true&bg_color=00000000&color=d9cfbb&line=8b5cf6&point=8b5cf6&area=true
+          output_path: dist/activity-graph-nekix-lol.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

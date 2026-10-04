@@ -190,7 +190,7 @@ Web del estudio de desarrollo freelance que co-fundé con [@Dieguito005](https:/
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TtvNekix&bg_color=0d1117&color=c9d1d9&line=6F4E37&point=c19a6b&area=true&hide_border=true" width="95%" />
+<img src="https://raw.githubusercontent.com/TtvNekix/TtvNekix/output/activity-graph.svg" width="95%" />
 
 </div>
 
