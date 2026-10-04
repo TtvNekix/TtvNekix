@@ -17,7 +17,7 @@
   </a>
   <img src="https://img.shields.io/badge/Cartagena-España-c41e3a?style=for-the-badge&labelColor=1a1a1a" alt="Location"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20projects-2ea043?style=for-the-badge&labelColor=1a1a1a" alt="Status"/>
-  <img src="https://komarev.com/ghpvc/?username=TtvNekix&style=for-the-badge&color=6F4E37&label=VISITAS&abbreviated=false" alt="Profile views"/>
+  <img src="https://vbr.nathanchung.dev/badge?page_id=TtvNekix.TtvNekix&style=for-the-badge&color=6F4E37&lcolor=1a1a1a&text=VISITAS" alt="Profile views"/>
 </p>
 
 </div>
