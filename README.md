@@ -17,7 +17,7 @@
   </a>
   <img src="https://img.shields.io/badge/Cartagena-España-c41e3a?style=for-the-badge&labelColor=1a1a1a" alt="Location"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20projects-2ea043?style=for-the-badge&labelColor=1a1a1a" alt="Status"/>
-  <img src="https://komarev.com/ghpvc/?username=TtvNekix&style=for-the-badge&color=6F4E37&label=VISITAS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=TtvNekix&style=for-the-badge&color=6F4E37&label=VISITAS&abbreviated=false" alt="Profile views"/>
 </p>
 
 </div>
@@ -26,11 +26,10 @@
 
 ## ☕ Sobre mí
 
-<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 Soy Juan, desarrollador de software. Trabajo con **C#**, **JavaScript** y **Lua** principalmente, encargado del desarrollo backend de aplicaciones y webs. También cuento con capacidades en infraestructura Linux y con un nivel en redes medio.
 
 - 🧠 Co-fundador de [**CoffeeProjects**](https://coffeeprojects.es/) con [@Dieguito005](https://github.com/Dieguito005) — estudio de desarrollo a medida.
+- 🚀 Actualmente también metido en **GTAHUB.gg** — disponible para proyectos freelance.
 - 🛠️ Experiencia en **C# / .NET** aplicada en proyectos privados y freelance.
 - 🎮 Veterano del ecosistema **FiveM**: mods, sistemas optimizados y backend de servidor.
 - 🖥️ Infraestructura **Linux**, **Proxmox**, **Nginx** y **Docker**.
@@ -118,6 +117,8 @@ Plataforma de gestión de ligas e-sports. Participación en el proyecto open-sou
 
 `TypeScript` `Open Source` `Colaboración`
 
+**[Ver repo →](https://github.com/OpenLeagueManager/OLManager)**
+
 </td>
 </tr>
 <tr>
@@ -131,6 +132,8 @@ Rutas dinámicas, UI limpia en NUI, integración con frameworks populares y opti
 
 `Lua` `SQL` `FiveM`
 
+**[Ver repo →](https://github.com/TtvNekix/nek_deliveryjob)**
+
 </td>
 <td width="50%" valign="top">
 
@@ -139,6 +142,8 @@ Rutas dinámicas, UI limpia en NUI, integración con frameworks populares y opti
 Sistema de compraventa con arquitectura modular, base de datos relacional y lógica server-side. Creado para FiveM.
 
 `Lua` `SQL` `FiveM`
+
+**[Ver repo →](https://github.com/TtvNekix/nek_vehicleshop)**
 
 </td>
 </tr>
@@ -184,6 +189,13 @@ Web del estudio de desarrollo freelance que co-fundé con [@Dieguito005](https:/
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TtvNekix&layout=compact&theme=gruvbox&bg_color=0d1117&text_color=c9d1d9&title_color=6F4E37&border_color=30363d" />
 </a>
 
+</div>
+
+<details>
+<summary align="center">📊 Ver más stats</summary>
+
+<div align="center">
+
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TtvNekix&theme=gruvbox&background=0d1117&border=30363d&stroke=6F4E37&ring=c19a6b&fire=c19a6b&currStreakLabel=6F4E37" />
@@ -194,6 +206,8 @@ Web del estudio de desarrollo freelance que co-fundé con [@Dieguito005](https:/
 
 </div>
 
+</details>
+
 ---
 
 ## 📫 Conecta conmigo
@@ -203,11 +217,11 @@ Web del estudio de desarrollo freelance que co-fundé con [@Dieguito005](https:/
 <a href="https://coffeeprojects.es/#contacto">
   <img src="https://img.shields.io/badge/Pedir_presupuesto-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Contacto"/>
 </a>
-<a href="mailto:juanperezros05@gmail.com">
-  <img src="https://img.shields.io/badge/Email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email personal"/>
-</a>
 <a href="mailto:contact@coffeeprojects.es">
   <img src="https://img.shields.io/badge/Email_studio-6F4E37?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email studio"/>
+</a>
+<a href="https://nekix.lol">
+  <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/TtvNekix">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
