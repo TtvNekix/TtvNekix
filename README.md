@@ -28,7 +28,7 @@
 
 Soy Juan, desarrollador de software. Trabajo con **C#**, **JavaScript** y **Lua** principalmente, encargado del desarrollo backend de aplicaciones y webs. También cuento con capacidades en infraestructura Linux y con un nivel en redes medio.
 
-- 🧠 Co-fundador de [**CoffeeProjects**](https://coffeeprojects.es/) con [@Dieguito005](https://github.com/Dieguito005) — estudio de desarrollo a medida.
+- 🧠 Socio de [**CoffeeProjects**](https://coffeeprojects.es/) junto a [@Dieguito005](https://github.com/Dieguito005) y [@eriksanchez23](https://github.com/eriksanchez23) — estudio de desarrollo a medida.
 - 🚀 Actualmente también metido en **GTAHUB.gg** — disponible para proyectos freelance.
 - 🛠️ Experiencia en **C# / .NET** aplicada en proyectos privados y freelance.
 - 🎮 Veterano del ecosistema **FiveM**: mods, sistemas optimizados y backend de servidor.
@@ -100,7 +100,7 @@ const juan = {
 
 ### ☕ [CoffeeProjects](https://coffeeprojects.es/)
 
-**Estudio de desarrollo a medida** con [@Dieguito005](https://github.com/Dieguito005).
+**Estudio de desarrollo a medida** con [@Dieguito005](https://github.com/Dieguito005) y [@eriksanchez23](https://github.com/eriksanchez23).
 
 Un equipo de tres españoles que convertimos cafés en webs, tiendas, mods de FiveM, juegos de Roblox y apps móviles.
 
@@ -168,7 +168,7 @@ Juego multijugador de deducción social en tiempo real. Encuentra al impostor an
 
 ### ☕ [coffeeprojects.es](https://coffeeprojects.es)
 
-Web del estudio de desarrollo freelance que co-fundé con [@Dieguito005](https://github.com/Dieguito005). Landing, servicios, equipo y presupuesto online — todo custom.
+Web del estudio de desarrollo freelance del que somos socios [@Dieguito005](https://github.com/Dieguito005), [@eriksanchez23](https://github.com/eriksanchez23) y yo. Landing, servicios, equipo y presupuesto online — todo custom.
 
 `HTML` `CSS` `JavaScript` `SEO`
 
@@ -190,7 +190,7 @@ Web del estudio de desarrollo freelance que co-fundé con [@Dieguito005](https:/
 
 <a href="https://github.com/TtvNekix"><img src="https://avatars.githubusercontent.com/u/69590591?s=120" width="90" alt="Juan"/></a>
 
-**Juan** · Backend
+**Juan** · Socio · Backend
 
 Sistemas y FiveM · Cartagena, España
 
@@ -199,7 +199,7 @@ Sistemas y FiveM · Cartagena, España
 
 <a href="https://github.com/Dieguito005"><img src="https://avatars.githubusercontent.com/u/184672124?s=120" width="90" alt="Diego"/></a>
 
-**Diego** · Frontend · Co-fundador
+**Diego** · Socio · Frontend
 
 Interfaces y UX · Tarancón, España
 
@@ -208,9 +208,9 @@ Interfaces y UX · Tarancón, España
 
 <a href="https://github.com/eriksanchez23"><img src="https://avatars.githubusercontent.com/u/247032481?s=120" width="90" alt="Erik"/></a>
 
-**Erik** · Diseño y clientes
+**Erik** · Socio · Diseño y clientes
 
-Se unió en 2026 · Cartagena, España
+Socio desde 2026 · Cartagena, España
 
 </td>
 </tr>
