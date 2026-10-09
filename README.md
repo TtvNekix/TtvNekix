@@ -102,7 +102,7 @@ const juan = {
 
 **Estudio de desarrollo a medida** con [@Dieguito005](https://github.com/Dieguito005).
 
-Dos devs españoles que convertimos cafés en webs, tiendas, mods de FiveM, juegos de Roblox y apps móviles.
+Un equipo de tres españoles que convertimos cafés en webs, tiendas, mods de FiveM, juegos de Roblox y apps móviles.
 
 `Node.js` `Stripe` `WordPress`
 
@@ -177,6 +177,46 @@ Web del estudio de desarrollo freelance que co-fundé con [@Dieguito005](https:/
 </td>
 </tr>
 </table>
+
+---
+
+## 👥 Equipo
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<a href="https://github.com/TtvNekix"><img src="https://avatars.githubusercontent.com/u/69590591?s=120" width="90" alt="Juan"/></a>
+
+**Juan** · Backend
+
+Sistemas y FiveM · Cartagena, España
+
+</td>
+<td align="center" width="33%">
+
+<a href="https://github.com/Dieguito005"><img src="https://avatars.githubusercontent.com/u/184672124?s=120" width="90" alt="Diego"/></a>
+
+**Diego** · Frontend · Co-fundador
+
+Interfaces y UX · Tarancón, España
+
+</td>
+<td align="center" width="33%">
+
+<a href="https://github.com/eriksanchez23"><img src="https://avatars.githubusercontent.com/u/247032481?s=120" width="90" alt="Erik"/></a>
+
+**Erik** · Diseño y clientes
+
+Se unió en 2026 · Cartagena, España
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
